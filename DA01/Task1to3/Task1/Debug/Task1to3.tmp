@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Coding\AVR\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>D:\Coding\AVR\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Coding\AVR\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\Debug\Task1to3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Task1to3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Task1to3.map</FILE>
+  <FILE>Task1to3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <L1><FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\main.asm</FILE><LINE>15</LINE></L1>
+  <L2><FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\main.asm</FILE><LINE>19</LINE></L2>
+  <loop><FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\main.asm</FILE><LINE>37</LINE></loop>
+  <Divide><FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\main.asm</FILE><LINE>41</LINE></Divide>
+  <NotDivisible><FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\main.asm</FILE><LINE>59</LINE></NotDivisible>
+  <Divisible><FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\main.asm</FILE><LINE>56</LINE></Divisible>
+  <done1><FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\main.asm</FILE><LINE>61</LINE></done1>
+  <incrementC><FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\main.asm</FILE><LINE>65</LINE></incrementC>
+  <notZero><FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\main.asm</FILE><LINE>67</LINE></notZero>
+  <done2><FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\main.asm</FILE><LINE>71</LINE></done2>
+  <Sum><FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\main.asm</FILE><LINE>91</LINE></Sum>
+  <notDone><FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\main.asm</FILE><LINE>101</LINE></notDone>
+  <Done><FILE>D:\Oji\Documents\School\Spring 2018\CPE 301\Homework\DA1\DA01\Task1to3\Task1\main.asm</FILE><LINE>107</LINE></Done>
+ </LABELS>
+</ASSEMBLER_INFO>
